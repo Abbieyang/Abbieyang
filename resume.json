@@ -10,21 +10,27 @@
   },
   "avatar": { "hidden": true },
   "profile": {
-    "name": "姓名",
+    "name": "王亮",
     "email": "windliang00@gmail.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://zhihu.com/people/visiky",
-    "workExpYear": "",
-    "workPlace": "浙江杭州",
+    "mobile": "17771420231",
+    "github": "",
+    "zhihu": "zhihu.com/people/wang-liang-61-22",
+    "workExpYear": "4 年",
+    "workPlace": "上海",
     "positionTitle": "前端工程师"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
+      "edu_time": ["2018.09.01", "2020.06.30"],
       "school": "华中科技大学",
-      "major": "网络工程",
-      "academic_degree": "硕士"
+      "major": "计算机技术",
+      "academic_degree": "硕士",
+      "dataIndex": 0
+    },
+    {
+      "edu_time": ["2014.09.01", "2018.06.30"],
+      "school": "中国地质大学（武汉）",
+      "major": "计算机科学与技术"
     }
   ],
   "awardList": [
