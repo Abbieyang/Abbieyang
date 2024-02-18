@@ -62,27 +62,15 @@
       "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
     }
   ],
-  "skillList": [
-    { "skill_name": "HTML 和 CSS", "skill_desc": "", "skill_level": 89 },
-    { "skill_name": "TypeScript / JavaScript", "skill_level": 90 },
-    {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
-      "skill_level": 80
-    }
-  ],
+  "skillList": [],
   "projectList": [
     {
       "project_name": "数据作战室",
-      "project_role": "前端负责人",
+      "project_role": "",
       "project_time": "2019.04 - 2020.06",
       "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率",
+      "dataIndex": 0
     },
     {
       "project_name": "DeepInsight",
